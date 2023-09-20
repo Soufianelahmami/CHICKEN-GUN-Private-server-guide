@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFZYmv.webp",
+            "title": "CHICKEN GUN Private server guide 1",
+            "text_Content_": "Chicken Gun is a wildly popular mobile game that combines the charm of chickens with intense, fast-paced shooting action. While the game is enjoyable in its own right, some players want to take their gaming experience to the next level by setting up a private server"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFZ57a.webp",
+            "title": "CHICKEN GUN Private server guide 2",
+            "text_Content_": "This guide will walk you through the process of creating your very own Chicken Gun private server, allowing you to customize the game to your heart's content and play with friends on your terms"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFlneI.webp",
+            "title": "CHICKEN GUN Private server guide 3",
+            "text_Content_": "Creating a private server for Chicken Gun may involve circumventing the game's terms of service. Be aware that any unauthorized modification of the game may result in penalties or bans from the game's developers. Use this guide at your own discretion"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFZ7kJ.webp",
+            "title": "CHICKEN GUN Private server guide 4",
+            "text_Content_": "Sign up for a cloud hosting service, or if you have a dedicated server, make sure it's ready for use"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFZIqP.webp",
+            "title": "CHICKEN GUN Private server guide 5",
+            "text_Content_": " Implement strong security measures to protect your server from unauthorized access"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFZT11.webp",
+            "title": "CHICKEN GUN Private server guide 6",
+            "text_Content_": "Keep your players engaged through social media or a dedicated forum to foster a sense of community"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFZurF.webp",
+            "title": "CHICKEN GUN Private server guide 7",
+            "text_Content_": "Hosting a Chicken Gun private server is an exciting way to enjoy the game on your terms. It allows you to customize the experience, play with friends, and build a community around your server"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFZRdg.webp",
+            "title": "CHICKEN GUN Private server guide 8",
+            "text_Content_": "However, remember to follow the game's terms of service and respect intellectual property rights when creating custom content. With the right setup and a dedicated community"
         }
     ]
 }
